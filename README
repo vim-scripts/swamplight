@@ -1,0 +1,29 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4798
+
+This is a light vim color scheme, made from scratch.
+The UI elements are complete - I didn't skip stuff (I hope) like some other themes do.
+Has GUI color as well as 256 color support, although the background of the 256 color
+variant couldn't match the intended color too well.
+
+Works better if the font is not a single pixel bitmap. I think this is the fault of it
+being a light color scheme.
+
+Keep in mind I am not a programmer, so the syntax color choice might be off or something,
+although seeing how bad most of the other color schemes are...
+
+Best to check the screenshots below.
+
+###### Screenshots ######
+
+random ruby with Consolas font:
+http://i.imgur.com/gjyvkKs.png
+
+diff with DejaVu Sans Mono:
+http://i.imgur.com/vM6kSD0.png
+
+Terminus font:
+http://i.imgur.com/lOcg3hY.png
+
+And the 256 color variant with VGA font:
+http://i.imgur.com/AzhjP2T.png
+
